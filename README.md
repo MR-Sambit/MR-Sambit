@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MR-Sambit
-- 👀 I’m interested in ...Data science 
+- 👀 I’m interested in ...Flutter Development & Data science 
 - 🌱 I’m currently learning ...Information Technology
 - 💞️ I’m looking to collaborate on ...gdsc
 - 📫 How to reach me ...insta@-sambitkumarhaldar
